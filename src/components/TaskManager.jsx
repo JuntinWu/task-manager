@@ -207,9 +207,8 @@ const TaskManager = () => {
             Your today's task almost done!
           </div>
           <Button
-            id="my-button"
             css={{
-              color: "#ffffff",
+              color: "#6366f1",
               fontSize: "14px",
               fontWeight: "600",
               padding: "12px 24px",
@@ -217,7 +216,7 @@ const TaskManager = () => {
               border: "none",
               cursor: "pointer",
               width: "fit-content",
-              backgroundColor: "red",
+              backgroundColor: "#ffffff",
             }}
           >
             View Task
