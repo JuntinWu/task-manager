@@ -208,7 +208,7 @@ const TaskManager = () => {
           </div>
           <Button
             css={{
-              color: "#6366f1",
+              color: "red",
               fontSize: "14px",
               fontWeight: "600",
               padding: "12px 24px",

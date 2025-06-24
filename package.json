@@ -13,6 +13,7 @@
     "@builder.io/sdk-react": "^4.2.2",
     "@emotion/react": "^11.11.1",
     "@radix-ui/react-slot": "^1.2.3",
+    "builder.io": "^1.6.125",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.522.0",
